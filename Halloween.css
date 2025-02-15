@@ -1,0 +1,46 @@
+header {
+    text-align: left;
+    padding: 10px;
+}
+
+img {
+    float: left;
+    margin-right: 15px;
+}
+
+h1 {
+    color: orange;
+    font-style: italic;
+    text-shadow: 2px 2px black;
+    font-size: 2em;
+}
+
+h2 {
+    text-align: left;
+}
+.First {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+nav{
+    color:black;
+}
+a{
+    color: orange;
+    text-decoration: underline;
+    font-weight: bold;
+}
+a:hover{
+    color:green;
+}
+a:visited{
+    color:orange;
+}
+footer{
+    text-align: center;
+}
